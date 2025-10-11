@@ -13,8 +13,8 @@ Tested on Matlab 2022a.
     - .cdf = Cumulative distribution function of poking by CS-type (0.5 sec bins).
   - _motorFeature_ = Motor predictors for pairwise ridge-regularized logistic regression.
     
-- __Fig1dmPFCInactivation.xlsp__:<br>
-  Pharmacological experiments data (Excel file) Nanci Winke
+- __Fig1dmPFCInactivation.xlsx__:<br>
+  Pharmacological experiments data (Excel file).
 
 - __Fig2neuralRec1.mat__: <br>Individual mice (n=10) imaging from the instrumental approach-avoidance task.
   - heatmaps = z-scored trial-average activity aligned at CS onset for different CS types.
