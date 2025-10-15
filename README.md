@@ -45,7 +45,17 @@ DOI: XXXX
 <br>
 
 ## /code content:
+- __BehPredictorsGLM.m__:
+  <br> Script used for ridge-glm on motor predictors at CS onset (Fig 1)
 
+- __binarySVMClassification.m__:
+  <br> Binary SVM classification (Fig 2 & 3)
+
+- __popRidgeRegShap.py__:
+  <br> Ridge regresion for Salience/Value and linear SHAP value calculations (Fig 4)
+  
+- __popRidgeLogRegShap.py__:
+  <br> Ridge log regresion for Valence (Fig 4)
 
 ## License
 - MIT License (see LICENSE file)
