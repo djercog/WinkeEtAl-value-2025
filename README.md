@@ -1,8 +1,8 @@
 # WinkeEtAl-value-2025
 
-This repository contains data and codes for analysis associated with the manuscript
-"Prefrontal neural geometry of associated cues guides learned motivated behaviors"
-% Winke N, Luthi A, Herry C, Jercog D.
+This repository contains data and codes for analysis associated with the manuscript <br>
+"Prefrontal neural geometry of associated cues guides learned motivated behaviors" <br>
+Winke N, Luthi A, Herry C, Jercog D.
 
 ## /data content:
 
