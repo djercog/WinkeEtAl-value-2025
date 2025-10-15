@@ -45,6 +45,9 @@ DOI: XXXX
 <br>
 
 ## /code content:
+
+Some codes used in the analysis (more to be +curated and uploaded soon).
+
 - __BehPredictorsGLM.m__:
   <br> Script used for ridge-glm on motor predictors at CS onset (Fig 1)
 
