@@ -1,7 +1,8 @@
 # WinkeEtAl-value-2025
 
-This repository contains data and scripts to reproduce main findings of Winke et al. 2025.
-Tested on Matlab 2022a. 
+This repository contains data and codes for analysis associated with the manuscript
+"Prefrontal neural geometry of associated cues guides learned motivated behaviors"
+% Winke N, Luthi A, Herry C, Jercog D.
 
 ## /data content:
 
