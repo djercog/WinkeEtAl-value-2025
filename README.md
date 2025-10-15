@@ -46,7 +46,6 @@ DOI: XXXX
 
 ## /code content:
 
-Some codes used in the analysis (more to be +curated and uploaded soon).
 
 - __BehPredictorsGLM.m__:
   <br> Script used for ridge-glm on motor predictors at CS onset (Fig 1)
@@ -59,6 +58,10 @@ Some codes used in the analysis (more to be +curated and uploaded soon).
   
 - __popRidgeLogRegShap.py__:
   <br> Ridge log regresion for Valence (Fig 4)
+
+<br><br>
+More to be curated and uploaded soon...
+
 
 ## License
 - MIT License (see LICENSE file)
