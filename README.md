@@ -2,7 +2,7 @@
 
 This repository contains data and script for analyses associated with the manuscript <br>
 "Prefrontal neural geometry of associated cues guides learned motivated behaviors" <br>
-Winke N, Luthi A, Herry C, Jercog D.
+Winke N, Lüthi A, Herry C, Jercog D.
 DOI: XXXX
 
 ## /data content:
